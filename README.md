@@ -2,9 +2,30 @@
 
 Codes for our paper of [Audio-Visual Representation Learning via Knowledge Distillation from Speech Foundation Models](https://arxiv.org/abs/2502.05766).
 
+## Usage
+
+### Data preparation
+
+Please refer to [AV-HuBERT](https://github.com/facebookresearch/av_hubert) code repo. Only difference
+is that our models use entire faces as visual inputs, rather than the extracted lip-ROI.
+
+### Pretraining
+
+```bash
+cd run_scripts
+bash run_alignmtl.sh
+```
+### Finetune
+
+```bash
+cd run_scripts/run_finetune
+bash run_finetune.sh
+```
+
 ## Pretrained Models
 
-Coming soon.
+Our pretrained models are coming soon.
+Please note that our model accept full face images of LRS3/Voxceleb video as inputs.
 
 ## Citation
 
