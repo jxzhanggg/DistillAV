@@ -1,4 +1,25 @@
 # DistillAV
-Code repo for our paper of "Audio-Visual Representation Learning via Knowledge Distillation from Speech Foundation Models".
 
-Coming soon!
+Code for our paper of [Audio-Visual Representation Learning via Knowledge Distillation from Speech Foundation Models](https://arxiv.org/abs/2502.05766).
+
+# Pretrained Models
+
+Coming soon.
+
+# Citation
+
+You can cite our paper by
+
+```bibtex
+@article{ZHANG2025111432,
+title = {Audio-visual representation learning via knowledge distillation from speech foundation models},
+journal = {Pattern Recognition},
+volume = {162},
+pages = {111432},
+year = {2025},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2025.111432},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320325000925},
+author = {Jing-Xuan Zhang and Genshun Wan and Jianqing Gao and Zhen-Hua Ling},
+}
+```
