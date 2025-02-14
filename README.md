@@ -28,7 +28,13 @@ bash run_finetune.sh
 
 ## Pretrained Models
 
-Our pretrained models are coming soon.
+  Pretrained Dataset | Model Size | Google Drive |
+| ----------- | ----------- | ----------- |
+| LRS3      | Base      | [lrs_base_pt.pt](https://drive.google.com/file/d/1iP5csxtLYy_hoIvG2Pbv4crNssLGfIJE/view?usp=sharing) |
+| LRS3   | Large       | [lrs_large_pt.pt](https://drive.google.com/file/d/1wOuE065wBsBUIUCDu9mMFlFboRRZAB3a/view?usp=sharing) |
+| LRS3+Voxceleb2 (En) | Base | [vox_base_pt.pt](https://drive.google.com/file/d/1mimTgiVDklulf6gNsX3-dye0jcCQTHSY/view?usp=sharing) |
+| LRS3+Voxceleb2 (En) | Large | [vox_large_pt.pt](https://drive.google.com/file/d/1Luvni8GsVoAugQHxJzg8clSa0WBawGcG/view?usp=sharing) |
+
 
 ## Citation
 
