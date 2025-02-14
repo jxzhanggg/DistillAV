@@ -4,6 +4,10 @@ Codes for our paper of [Audio-Visual Representation Learning via Knowledge Disti
 
 ## Usage
 
+### Environment
+
+Please refer to the exported [environment.yml](https://github.com/jxzhanggg/DistillAV/blob/main/environment.yml) file.
+
 ### Data preparation
 
 Please refer to [AV-HuBERT](https://github.com/facebookresearch/av_hubert) code repo. Only difference
