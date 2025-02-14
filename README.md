@@ -1,12 +1,12 @@
 # DistillAV
 
-Code for our paper of [Audio-Visual Representation Learning via Knowledge Distillation from Speech Foundation Models](https://arxiv.org/abs/2502.05766).
+Codes for our paper of [Audio-Visual Representation Learning via Knowledge Distillation from Speech Foundation Models](https://arxiv.org/abs/2502.05766).
 
-# Pretrained Models
+## Pretrained Models
 
 Coming soon.
 
-# Citation
+## Citation
 
 You can cite our paper by
 
@@ -23,3 +23,8 @@ url = {https://www.sciencedirect.com/science/article/pii/S0031320325000925},
 author = {Jing-Xuan Zhang and Genshun Wan and Jianqing Gao and Zhen-Hua Ling},
 }
 ```
+
+## Acknowledgements
+
+Our code was adapted from the following project:
+* https://github.com/facebookresearch/av_hubert
