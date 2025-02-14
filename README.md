@@ -29,7 +29,6 @@ bash run_finetune.sh
 ## Pretrained Models
 
 Our pretrained models are coming soon.
-Please note that our model accept full face images of LRS3/Voxceleb video as inputs.
 
 ## Citation
 
